@@ -13,6 +13,7 @@
 		361A7C34245D16D4000354EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 361A7C33245D16D4000354EF /* Assets.xcassets */; };
 		361A7C37245D16D4000354EF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 361A7C36245D16D4000354EF /* Preview Assets.xcassets */; };
 		361A7C3A245D16D4000354EF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 361A7C38245D16D4000354EF /* LaunchScreen.storyboard */; };
+		361A7C42245E07A5000354EF /* athkarArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 361A7C41245E07A5000354EF /* athkarArray.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		361A7C36245D16D4000354EF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		361A7C39245D16D4000354EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		361A7C3B245D16D4000354EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		361A7C41245E07A5000354EF /* athkarArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = athkarArray.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				361A7C2D245D16D0000354EF /* AppDelegate.swift */,
 				361A7C2F245D16D0000354EF /* SceneDelegate.swift */,
 				361A7C31245D16D0000354EF /* ContentView.swift */,
+				361A7C41245E07A5000354EF /* athkarArray.swift */,
 				361A7C33245D16D4000354EF /* Assets.xcassets */,
 				361A7C38245D16D4000354EF /* LaunchScreen.storyboard */,
 				361A7C3B245D16D4000354EF /* Info.plist */,
@@ -148,6 +151,7 @@
 			files = (
 				361A7C2E245D16D0000354EF /* AppDelegate.swift in Sources */,
 				361A7C30245D16D0000354EF /* SceneDelegate.swift in Sources */,
+				361A7C42245E07A5000354EF /* athkarArray.swift in Sources */,
 				361A7C32245D16D0000354EF /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
